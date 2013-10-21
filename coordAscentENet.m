@@ -12,8 +12,7 @@ else
     beta0 = mean(y);
     beta = 0.1*ones(k,1);
 end
-
-return 
+ 
 
 % assume default tolerance and number of iterations
 TOL = 1e-6;
